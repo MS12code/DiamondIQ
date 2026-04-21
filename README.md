@@ -142,5 +142,5 @@ Ordinal category ordering:
 - **Cut:** Fair → Good → Very Good → Premium → Ideal
 - **Color:** D → E → F → G → H → I → J
 - **Clarity:** I1 → SI2 → SI1 → VS2 → VS1 → VVS2 → VVS1 → IF
-=======
+
 
