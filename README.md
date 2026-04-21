@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DiamondIQ — Explainable AI-Powered Diamond Valuation System
 
 A production-grade diamond price prediction and trend simulation platform built with Python, Streamlit, and XGBoost.
@@ -143,5 +143,4 @@ Ordinal category ordering:
 - **Color:** D → E → F → G → H → I → J
 - **Clarity:** I1 → SI2 → SI1 → VS2 → VS1 → VVS2 → VVS1 → IF
 =======
-# DiamondIQ
->>>>>>> 4eacc2b1e046008dd53fbad8282831dafe3f2dcc
+
